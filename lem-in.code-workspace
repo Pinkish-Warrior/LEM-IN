@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "lem-in",
+		"path": "."
+	},
+	{
+		"name": "spatial",
+		"path": "../spatial"
+	}
+],
+  "settings": {}
+}
