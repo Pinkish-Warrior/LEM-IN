@@ -8,7 +8,7 @@ We have been tasked with creating a program that optimizes the movement of ants 
 
 ## Requirements 📝
 
-- Read Input:
+- 👉 Read Input:
 
 Read input data from a specified file.
 The input data includes:
@@ -17,7 +17,7 @@ The names of start and end rooms.
 A list of rooms with their coordinates.
 A list of links between rooms.
 
-- Graph Construction:
+- 👉 Graph Construction:
 
 Construct a graph representation from the provided input data.
 Each room has a unique name and coordinates (X, Y).
@@ -27,25 +27,25 @@ Optimal Path Finding:
 Implement a path-finding algorithm to find all possible paths between the start and end rooms.
 Determine the optimal path based on the number of ants and path lengths.
 
-- Ant Allocation:
+- 👉 Ant Allocation:
 
 Allocate ants to paths in a way that minimizes the total travel time.
 Each ant should traverse one path from start to end.
 
-- Movement Output:
+- 👉 Movement Output:
 
 Print the movement of ants along the optimal paths.
 Implement two output options:
 Print ants' movements over time steps.
 Print ants' migration in a single step.
 
-- Code Organization:
+- 👉 Code Organization:
 
 Organize the code into modular functions with clear responsibilities.
 Use meaningful variable and function names.
 Implement error handling and informative error messages.
 
-- Testing and Validation:
+- 👉 Testing and Validation:
 
 Implement unit tests to validate the functionality of your functions.
 Provide example input files and expected output for testing purposes.
@@ -174,7 +174,6 @@ go tool cover -html=coverage.out
 These test cases cover various scenarios to ensure the correctness and reliability of all functions in the `lem` package.
 
 [![Go Reference](https://pkg.go.dev/badge/net/http.svg)](https://pkg.go.dev/net/http)
-[![discord](https://img.shields.io/badge/contact-me-purple?logo=discord&logoColor=white)](https://discordapp.com/users/830386901021360169830386901021360169)
 
 ## Tools & Skills 🧰
 
@@ -215,3 +214,5 @@ These test cases cover various scenarios to ensure the correctness and reliabili
 ## Get in Touch ✉️
 
 ![QR Code](https://chart.googleapis.com/chart?cht=qr&chs=100x100&chl=https://pinkish-warrior.github.io/webpage/)
+
+[![discord](https://img.shields.io/badge/contact-me-purple?logo=discord&logoColor=white)](https://discordapp.com/users/830386901021360169830386901021360169)
