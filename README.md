@@ -211,3 +211,7 @@ These test cases cover various scenarios to ensure the correctness and reliabili
 - tmachado 💡
 - jesaed
 - creed
+
+## Get in Touch ✉️
+
+![QR Code](https://chart.googleapis.com/chart?cht=qr&chs=100x100&chl=https://pinkish-warrior.github.io/webpage/)
