@@ -13,7 +13,7 @@ We have been tasked with creating a program that optimizes the movement of ants 
 Read input data from a specified file.
 The input data includes:
 The number of ants.
-The names of start and end rooms.
+The names of the start and end rooms.
 A list of rooms with their coordinates.
 A list of links between rooms.
 
